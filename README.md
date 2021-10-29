@@ -6,3 +6,7 @@
 Thank you so much for reading, and happy playing! :)
   
   ~ Colin
+
+
+Play Here:
+  [![Run on Repl.it](https://repl.it/badge/github/funniecheeseman/-Original-LuaRPG)](https://repl.it/github/funniecheeseman/-Original-LuaRPG)
