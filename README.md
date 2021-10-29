@@ -8,5 +8,9 @@ Thank you so much for reading, and happy playing! :)
   ~ Colin
 
 
-Play Here:
+Play here & click Run on the top of the screen to check it out:
+  https://replit.com/@funniecheeseman/Original-LuaRPG
+
+
+If that doesn't work, try here:
   [![Run on Repl.it](https://repl.it/badge/github/funniecheeseman/-Original-LuaRPG)](https://repl.it/github/funniecheeseman/-Original-LuaRPG)
