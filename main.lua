@@ -8,7 +8,7 @@
       This is now open sourced on github! Check it out under funniecheeseman!
       Thank you and happy playing!
 ]]
-
+--
 local PlayerStats = {
   ['Damage'] = 1;
   ['Defense'] = 1;
